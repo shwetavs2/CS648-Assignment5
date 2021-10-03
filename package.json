@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AjaySankar/Assignment-5.git"
+    "url": "git+https://github.com/shwetavs2/CS648-Assignment5.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/AjaySankar/Assignment-5/issues"
+    "url": "https://github.com/shwetavs2/CS648-Assignment5/issues"
   },
-  "homepage": "https://github.com/AjaySankar/Assignment-5#readme",
+  "homepage": "https://github.com/shwetavs2/CS648-Assignment5#readme",
   "devDependencies": {
     "gulp": "^4.0.2",
     "gulp-sass": "^4.0.2",
